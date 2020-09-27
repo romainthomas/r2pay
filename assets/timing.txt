@@ -1,0 +1,14 @@
++--------------------------------------+--------+--------+
+|Configuration                         | Time   | Factor |
++--------------------------------------+--------+--------+
+|real_execution                        | 853    | x1     |
+|full_instrumentation                  | 198156 | x232   |
+|partial_instrumentation               | 3339   | x3     |
+|partial_instrumentation_memory_trace  | 10915  | x12    |
++--------------------------------------+--------+--------+
+
+
+
+
+
+

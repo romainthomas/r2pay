@@ -1,0 +1,13 @@
+$ make run
+[100%] Running /data/local/tmp/r2pay
+[2020-09-24 06:24:39.502] [info] JVM Created!
+[2020-09-24 06:24:39.838] [info] Base address of libnative-lib.so: 0x7eeb003000
+[2020-09-24 06:28:18.776] [info] [0x1a81db]: 15 faulty records
+[2020-09-24 06:31:56.895] [info] [0x1a8549]: 63 faulty records
+[2020-09-24 06:35:34.139] [info] [0x1a8978]: 15 faulty records
+[2020-09-24 06:39:11.798] [info] [0x1a8efd]: 15 faulty records
+[2020-09-24 06:42:49.323] [info] [0x1a8fdf]: 15 faulty records
+[2020-09-24 06:46:26.816] [info] [0x1a90ce]: 15 faulty records
+[2020-09-24 06:50:04.630] [info] [0x1a91b2]: 63 faulty records
+[2020-09-24 06:53:41.954] [info] [0x1a930d]: 15 faulty records
+<CTRL+C >

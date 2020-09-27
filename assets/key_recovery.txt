@@ -1,0 +1,9 @@
+$ python wb_key_recovery.py
+..8D....7F............9A....79.. injection-1a930d.trace
+..8D....7F............9A....79.. injection-1a95bd.trace
+....19....62....B0............8F injection-1a91b2.trace
+....19....62....B0............8F injection-1a8fdf.trace
+76............1E....D3....E1.... injection-1a8549.trace
+......E1....A0....CD....28...... injection-1a8978.trace
+....19....62....B0............8F injection-1a90ce.trace
+....19....62....B0............8F injection-1a8efd.trace
